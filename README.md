@@ -52,9 +52,6 @@ This repository contains a dataset and a Power BI dashboard visualizing key manu
 ### 4. Monthly Production Trend
 - The trend shows an increase in production from January to mid-year, followed by a decline in later months.
 
-## Dashboard Screenshot
-
-![Manufacturing Performance Dashboard](image.png)
 
 ## How to Use
 
